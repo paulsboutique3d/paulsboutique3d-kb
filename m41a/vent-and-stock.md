@@ -21,7 +21,8 @@ Updated25/02/2025
 * Rear stock
 * Stock clamp
 
-![](m41a/images/front-vent-assembly-1.png)
-![](m41a/images/rear-stock-assembly-1.png)
-![](m41a/images/ShroudsVentsStocks-v494.png)
-![](m41a/images/full.png)
+![](images/front-vent-assembly-1.png)
+![](images/rear-stock-assembly-1.png)
+![](images/ShroudsVentsStocks-v494.png)
+![](images/full.png)
+

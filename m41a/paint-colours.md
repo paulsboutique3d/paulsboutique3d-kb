@@ -2,7 +2,7 @@
 
 Updated05/11/2024
 
-![](m41a/images/vents-and-spas-front-ends-and-stock-v412.png)
+![](images/vents-and-spas-front-ends-and-stock-v412.png)
 
 I use SMS Paints for my props – https://www.scalemodeller.com.au/
 
@@ -35,3 +35,4 @@ Tamiya LP-59
 Tamiya NATO Black XF-69
 
 Tamiya GUN Metal TS-38
+
