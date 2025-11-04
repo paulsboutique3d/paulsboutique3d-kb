@@ -1,17 +1,5 @@
 # M41A Electronics install
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=m41a-electronics-install
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* M41A Electronics install
-
-Print
-
-# M41A Electronics install
-
 Updated19/12/2024
 
 ![](m41a/images/Electronics-Static-and-Full-v147.png)

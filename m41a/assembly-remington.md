@@ -1,17 +1,5 @@
 # Assembly – Remington
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=assembly-remington
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* Assembly – Remington
-
-Print
-
-# Assembly – Remington
-
 Updated02/11/2024
 
 ![](m41a/images/70065125041c47bfdb51b2a2fb50444f.png)
