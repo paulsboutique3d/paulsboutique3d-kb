@@ -1,17 +1,5 @@
 # F44AA – BOM
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=f44aa-bom
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [F44AA](https://www.paulsboutique3d.com/?epkb_post_type_1_category=f44aa)
-* F44AA – BOM
-
-Print
-
-# F44AA – BOM
-
 Updated15/07/2025
 
 |  |  |
@@ -94,3 +82,4 @@ Updated15/07/2025
 | 3.16mm Brass rod cut to suit | 500mm |
 | 5.56mm Brass tube | 158mm |
 | M5 Rod threaded | 172mm |
+
