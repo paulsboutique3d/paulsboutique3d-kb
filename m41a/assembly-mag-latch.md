@@ -1,17 +1,5 @@
 # Assembly – Mag latch
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=assembly-mag-latch
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* Assembly – Mag latch
-
-Print
-
-# Assembly – Mag latch
-
 Updated05/11/2024
 
 ![](m41a/images/Thompson-M1A1-v232.png)
