@@ -1,17 +1,5 @@
 # Vent and Stock
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=vent-and-stock
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* Vent and Stock
-
-Print
-
-# Vent and Stock
-
 Updated25/02/2025
 
 **Parts needed – Thompson zip**

@@ -1,22 +1,10 @@
 # Paint Colours
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=paint-colours
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* Paint Colours
-
-Print
-
-# Paint Colours
-
 Updated05/11/2024
 
 ![](m41a/images/vents-and-spas-front-ends-and-stock-v412.png)
 
-I use SMS Paints for my props – [https://www.scalemodeller.com.au/](https://www.google.com/url?q=https%3A%2F%2Fwww.scalemodeller.com.au%2F&sa=D&sntz=1&usg=AOvVaw1HhAF69WcmpfVbwUG--wzs)
+I use SMS Paints for my props – https://www.scalemodeller.com.au/
 
 Shrouds – SMS Blaster Brown
 

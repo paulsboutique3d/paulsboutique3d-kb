@@ -1,17 +1,5 @@
 # Assembly – Thompson
 
-> Source: https://www.paulsboutique3d.com/?epkb_post_type_1=assembly-thompson
-
-[< All Topics](https://www.paulsboutique3d.com/?page_id=694)
-
-* [Main](https://www.paulsboutique3d.com/?page_id=694)
-* [M41A](https://www.paulsboutique3d.com/?epkb_post_type_1_category=m41a)
-* Assembly – Thompson
-
-Print
-
-# Assembly – Thompson
-
 Updated01/11/2024
 
 ![](m41a/images/0b547eb13efb6a5a737c468a0a525474.png)
