@@ -142,11 +142,6 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 
 ##  Tips for Success
 
-> **🎯 Plan Your Build**
-> - Read through the entire guide before starting
-> - Gather all materials and tools first
-> - Print test pieces to check fit
-
 > **🔧 Take Your Time**
 > - Don't rush the assembly process
 > - Test fit components before gluing
@@ -162,7 +157,6 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 ## 🤝 Community & Support
 
 - 💬 Found an error? Submit an issue or pull request
-- 🌟 Share your builds and tag us!
 - 📧 Need help? Contact us at [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)
 
 ---
