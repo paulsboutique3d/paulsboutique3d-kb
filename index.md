@@ -3,19 +3,18 @@ layout: default
 title: Paul's Boutique 3D - Prop Replica Build Guides
 ---
 
-<div align="center">
-
 # 🚀 Paul's Boutique 3D
+{: .text-center}
 
 ### *Precision Prop Replicas & Build Guides*
+{: .text-center}
 
 [![Cults3D](https://img.shields.io/badge/3D_Models-Cults3D-FF5722?style=for-the-badge&logo=cults3d)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
 [![Store](https://img.shields.io/badge/Electronics-Store-00BCD4?style=for-the-badge&logo=shopify)](https://store.paulsboutique3d.com)
 [![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:admin@paulsboutique3d.com)
+{: .text-center}
 
 ---
-
-</div>
 
 ## 🎯 About
 
@@ -33,10 +32,6 @@ This knowledge base contains comprehensive build guides, assembly instructions, 
 
 ## 📚 Build Guides
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔫 M41A Pulse Rifle
 **[→ View Build Guide](m41a/)**
 
@@ -48,8 +43,7 @@ The legendary M41A Pulse Rifle from *Aliens*. Features Thompson/Remington combo 
 - 📟 Digital round counter
 - 🎨 Paint & finishing guide
 
-</td>
-<td width="50%">
+---
 
 ### ⚡ M41A MK2 Pulse Rifle
 **[→ View Build Guide](m41a-mk2/)**
@@ -62,11 +56,7 @@ Updated MK2 variant with refined mechanisms and improved reliability.
 - 🔧 Improved breech bolt design
 - 📐 U1 springs configuration
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🎯 M41A/2 Pulse Rifle
 **[→ View Build Guide](m41a-2/)**
@@ -79,8 +69,7 @@ Variant build with improved internals and enhanced component integration.
 - 🛠️ Refined shroud assembly
 - 📏 Improved component fit
 
-</td>
-<td width="50%">
+---
 
 ### 📡 M314 Motion Tracker
 **[→ View Build Guide](m314/)**
@@ -93,11 +82,7 @@ Iconic Motion Tracker built with Kango drill and vintage camera equipment.
 - 🎛️ Hama accessories & components
 - 💡 Jobo mini light attachment
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🔥 M240 Flamethrower
 **[→ View Build Guide](m240/)**
@@ -110,8 +95,7 @@ The M240 Incinerator Unit with authentic copper pipe details.
 - 📋 Complete hardware BOM
 - 🔧 Trigger spring mechanism
 
-</td>
-<td width="50%">
+---
 
 ### 🎮 F44AA
 **[→ View Build Guide](f44aa/)**
@@ -124,11 +108,7 @@ Advanced build with dual IPS screens, RGB LEDs, and complex mechanisms.
 - 🔊 Dayton speaker integration
 - ⚙️ Multiple spring-loaded components
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 💧 Lacrima99
 **[→ View Build Guide](lacrima99/)**
@@ -140,8 +120,7 @@ Detailed prop replica with comprehensive assembly documentation.
 - 📐 Component specifications
 - 🛠️ Assembly diagrams
 
-</td>
-<td width="50%">
+---
 
 ### 🎲 Ace of Spades
 **[→ View Build Guide](ace-of-spades-hand-cannon/)**
@@ -153,25 +132,20 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 - ⚙️ Mechanical components
 - 🎨 Game-accurate design
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛒 Resources & Links
 
-<div align="center">
-
 ### Get Everything You Need to Build
 
-| Resource | Description | Link |
-|:--------:|:------------|:----:|
-| 🖨️ **3D Models** | Download STL files for all projects | [![Cults3D](https://img.shields.io/badge/Visit-Cults3D-FF5722?style=flat-square)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models) |
-| ⚡ **Electronics** | Pre-made PCBs, components & kits | [![Store](https://img.shields.io/badge/Visit-Store-00BCD4?style=flat-square)](https://store.paulsboutique3d.com) |
-| 📧 **Support** | Questions? Custom orders? | [![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com) |
+**🖨️ 3D Models** - Download STL files for all projects  
+[![Cults3D](https://img.shields.io/badge/Visit-Cults3D-FF5722?style=flat-square)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
 
-</div>
+**⚡ Electronics** - Pre-made PCBs, components & kits  
+[![Store](https://img.shields.io/badge/Visit-Store-00BCD4?style=flat-square)](https://store.paulsboutique3d.com)
+
+**📧 Support** - Questions? Custom orders?  
+[![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com)
 
 ---
 
@@ -242,14 +216,14 @@ Documentation and images © Paul's Boutique 3D. All rights reserved.
 
 ---
 
-<div align="center">
-
 ### 🌟 Happy Building! 🌟
+{: .text-center}
 
 **Made with ❤️ by Paul's Boutique 3D**
+{: .text-center}
 
 *Last Updated: November 2025*
+{: .text-center}
 
 [![Cults3D](https://img.shields.io/badge/Follow-Cults3D-FF5722?style=social)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
-
-</div>
+{: .text-center}
