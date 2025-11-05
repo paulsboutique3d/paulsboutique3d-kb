@@ -8,16 +8,12 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 	<p style="margin:0; font-size:1.1rem; opacity:0.9;">Build guides and print notes for Cults3D filesets</p>
 	<p style="margin:0.8rem 0 0;">
 		<a href="https://cults3d.com/en/users/PaulsBoutique3D/3d-models" style="display:inline-block; background:#ff5722; color:#fff; padding:0.55rem 0.95rem; border-radius:8px; text-decoration:none; font-weight:600;">Get STL files on Cults3D →</a>
+		<a href="https://store.paulsboutique3d.com" style="display:inline-block; background:#00bcd4; color:#fff; padding:0.55rem 0.95rem; border-radius:8px; text-decoration:none; font-weight:600; margin-left:8px;">Electronics store</a>
+		<a href="mailto:admin@paulsboutique3d.com" style="display:inline-block; background:#ea4335; color:#fff; padding:0.55rem 0.95rem; border-radius:8px; text-decoration:none; font-weight:600; margin-left:8px;">Contact</a>
 	</p>
 </div>
 
 <hr/>
-
-## How to use this site
-
-1. Pick a project below and open its page.
-2. Read print notes and BOM (if provided).
-3. Follow the assembly steps in order.
 
 <style>
 /* Lightweight, page-local styles for a simple card grid */
@@ -86,7 +82,7 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 
 - Documentation here supports the Cults3D filesets only.
 - STL files are not hosted here; download from Cults3D.
-- Do not redistribute models or docs outside your license terms.
+
 
 <div style="text-align:center; margin-top:1.2rem; opacity:0.8; font-size:0.95rem;">
 	Last updated: November 2025
