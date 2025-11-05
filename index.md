@@ -1,195 +1,93 @@
 ---
 layout: default
-title: Paul's Boutique 3D - Prop Replica Build Guides
+title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 ---
 
-# 🚀 Paul's Boutique 3D
-{: .text-center}
-
-### *Precision Prop Replicas & Build Guides*
-{: .text-center}
-
-[![Cults3D](https://img.shields.io/badge/3D_Models-Cults3D-FF5722?style=for-the-badge&logo=cults3d)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
-[![Store](https://img.shields.io/badge/Electronics-Store-00BCD4?style=for-the-badge&logo=shopify)](https://store.paulsboutique3d.com)
-[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:admin@paulsboutique3d.com)
-{: .text-center}
-
----
-
-## 🎯 About
-
-Welcome to **Paul's Boutique 3D** – your ultimate resource for building screen-accurate prop replicas from iconic sci-fi films! 
-
-We specialize in creating highly detailed prop replicas that combine:
-- ⚡ **Functional Electronics** including LEDs, sound effects, and displays
-- 🔧 **Mechanical Components** with working trigger mechanisms and moving parts
-- 🎨 **Screen Accuracy** with authentic paint schemes and weathering
-
-This knowledge base contains comprehensive build guides, assembly instructions, bills of materials, and technical documentation for all our projects.
-
----
-
-## 🛒 Resources & Links
-
-### Get Everything You Need to Build
-
-**🖨️ 3D Models** - Download STL files for all projects  
-[![Cults3D](https://img.shields.io/badge/Visit-Cults3D-FF5722?style=flat-square)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
-
-**⚡ Electronics** - Pre-made PCBs, components & kits  
-[![Store](https://img.shields.io/badge/Visit-Store-00BCD4?style=flat-square)](https://store.paulsboutique3d.com)
-
-**📧 Support** - Questions? Custom orders?  
-[![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com)
-
----
-
-
-## 📚 Build Guides
-
-### 🔫 M41A Pulse Rifle
-**[→ View Build Guide](m41a/)**
-
-The legendary M41A Pulse Rifle from *Aliens*. Features Thompson/Remington combo with full electronics.
-
-**Highlights:**
-- ✅ Complete Thompson & Remington assembly
-- 💡 LED lighting & sound effects
-- 📟 Digital round counter
-- 🎨 Paint & finishing guide
-
----
-
-### ⚡ M41A MK2 Pulse Rifle
-**[→ View Build Guide](m41a-mk2/)**
-
-Updated MK2 variant with refined mechanisms and improved reliability.
-
-**Highlights:**
-- ✅ Enhanced trigger mechanisms
-- 🔩 Detailed spring specifications
-- 🔧 Improved breech bolt design
-- 📐 U1 springs configuration
-
----
-
-### 🎯 M41A/2 Pulse Rifle
-**[→ View Build Guide](m41a-2/)**
-
-Variant build with improved internals and enhanced component integration.
-
-**Highlights:**
-- ✅ Updated Thompson inner mechanism
-- 🔩 Enhanced Remington integration
-- 🛠️ Refined shroud assembly
-- 📏 Improved component fit
-
----
-
-### 📡 M314 Motion Tracker
-**[→ View Build Guide](m314/)**
-
-Iconic Motion Tracker built with Kango drill and vintage camera equipment.
-
-**Highlights:**
-- ✅ Kango hammer drill base
-- 📸 Vivitar 2000 flash integration
-- 🎛️ Hama accessories & components
-- 💡 Jobo mini light attachment
-
----
-
-### 🔥 M240 Flamethrower
-**[→ View Build Guide](m240/)**
-
-The M240 Incinerator Unit with authentic copper pipe details.
-
-**Highlights:**
-- ✅ Custom 3D printed components
-- 🔩 Copper pipe integration (12.7mm)
-- 📋 Complete hardware BOM
-- 🔧 Trigger spring mechanism
-
----
-
-### 🎮 F44AA
-**[→ View Build Guide](f44aa/)**
-
-Advanced build with dual IPS screens, RGB LEDs, and complex mechanisms.
-
-**Highlights:**
-- ✅ Dual 1.9" IPS displays
-- 💡 WS2812 RGB LED lighting
-- 🔊 Dayton speaker integration
-- ⚙️ Multiple spring-loaded components
-
----
-
-### 💧 Lacrima99
-**[→ View Build Guide](lacrima99/)**
-
-Detailed prop replica with comprehensive assembly documentation.
-
-**Highlights:**
-- ✅ Complete build instructions
-- 📐 Component specifications
-- 🛠️ Assembly diagrams
-
----
-
-### 🎲 Ace of Spades
-**[→ View Build Guide](ace-of-spades-hand-cannon/)**
-
-Exotic hand cannon from *Destiny* with intricate mechanical details.
-
-**Highlights:**
-- ✅ Intricate detail work
-- ⚙️ Mechanical components
-- 🎨 Game-accurate design
-
----
-
-
-## 💡 Tips for Success
-
-> **🎯 Plan Your Build**
-> - Read through the entire guide before starting
-> - Gather all materials and tools first
-> - Print test pieces to check fit
-
-> **🔧 Take Your Time**
-> - Don't rush the assembly process
-> - Test fit components before gluing
-> - Follow the recommended build order
-
-> **🎨 Finishing Touches**
-> - Use recommended paint brands for accuracy
-> - Apply primer for best results
-> - Consider weathering for realism
-
----
-
-## 🤝 Community & Support
-
-- 💬 Found an error? Submit an issue or pull request
-- 📧 Need help? Contact us at [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)
-
----
-
-## 📜 License
-
-Documentation and images © Paul's Boutique 3D. All rights reserved.
-
----
-
-### 🌟 Happy Building! 🌟
-{: .text-center}
-
-**Made with ❤️ by Paul's Boutique 3D**
-{: .text-center}
-
-*Last Updated: November 2025*
-{: .text-center}
-
-[![Cults3D](https://img.shields.io/badge/Follow-Cults3D-FF5722?style=social)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
-{: .text-center}
+<div style="text-align:center; padding: 1.25rem 0 1rem;">
+	<h1 style="margin:0.2rem 0 0.4rem; font-weight:700;">Paul's Boutique 3D</h1>
+	<p style="margin:0; font-size:1.1rem; opacity:0.9;">Build guides and print notes for Cults3D filesets</p>
+	<p style="margin:0.8rem 0 0;">
+		<a href="https://cults3d.com/en/users/PaulsBoutique3D/3d-models" style="display:inline-block; background:#ff5722; color:#fff; padding:0.55rem 0.95rem; border-radius:8px; text-decoration:none; font-weight:600;">Get STL files on Cults3D →</a>
+	</p>
+</div>
+
+<hr/>
+
+## How to use this site
+
+1. Pick a project below and open its page.
+2. Read print notes and BOM (if provided).
+3. Follow the assembly steps in order.
+
+<style>
+/* Lightweight, page-local styles for a simple card grid */
+.pb-grid { display:flex; flex-wrap:wrap; gap:14px; margin: 0.6rem 0 0.2rem; }
+.pb-card { flex:1 1 240px; border:1px solid #e5e7eb; border-radius:10px; padding:14px 14px; background:#fff; }
+.pb-card h3 { margin:0 0 6px; font-size:1.05rem; }
+.pb-card p { margin:0.1rem 0 0; color:#555; font-size:0.95rem; }
+.pb-card a { text-decoration:none; color:#0b67c2; font-weight:600; }
+.pb-badge { display:inline-block; font-size:0.72rem; background:#f3f4f6; color:#374151; padding:2px 8px; border-radius:999px; margin-left:6px; vertical-align:middle; }
+@media (prefers-color-scheme: dark) {
+	.pb-card { border-color:#2a2f36; background:#111418; }
+	.pb-card p { color:#b9c0cb; }
+	.pb-badge { background:#1f2937; color:#e5e7eb; }
+}
+</style>
+
+## Project guides
+
+<div class="pb-grid">
+	<div class="pb-card">
+		<h3>🔫 <a href="m41a/">M41A Pulse Rifle</a> <span class="pb-badge">guide</span></h3>
+		<p>Assembly, electronics install, paint notes, BOM.</p>
+	</div>
+	<div class="pb-card">
+		<h3>⚡ <a href="m41a-mk2/">M41A MK2 Pulse Rifle</a></h3>
+		<p>Refined mechanisms and spring specs.</p>
+	</div>
+	<div class="pb-card">
+		<h3>🎯 <a href="m41a-2/">M41A/2 Pulse Rifle</a></h3>
+		<p>Updated internals and shroud assembly.</p>
+	</div>
+	<div class="pb-card">
+		<h3>📡 <a href="m314/">M314 Motion Tracker</a></h3>
+		<p>Kango base, camera/flash integration, accessories.</p>
+	</div>
+	<div class="pb-card">
+		<h3>🔥 <a href="m240/">M240 Incinerator Unit</a></h3>
+		<p>3D printed parts, copper pipe integration, hardware BOM.</p>
+	</div>
+	<div class="pb-card">
+		<h3>🎮 <a href="f44aa/">F44AA</a></h3>
+		<p>Dual IPS screens, RGB LEDs, speaker integration.</p>
+	</div>
+	<div class="pb-card">
+		<h3>💧 <a href="lacrima99/">Lacrima99</a></h3>
+		<p>Comprehensive assembly documentation.</p>
+	</div>
+	<div class="pb-card">
+		<h3>🎲 <a href="ace-of-spades-hand-cannon/">Ace of Spades Hand Cannon</a></h3>
+		<p>Intricate mechanical details; game-accurate design.</p>
+	</div>
+</div>
+
+<hr/>
+
+## Printing basics
+
+- Material: PLA+ or PETG unless a guide specifies otherwise.
+- Layer height: ~0.20 mm; use finer layers for cosmetic surfaces if needed.
+- Walls/perimeters: 3–4; infill: 20–35% (per part requirements).
+- Supports: only where indicated; orient parts as shown in guide images.
+- Tolerances: print a small test piece if unsure; light sanding may be required.
+- Adhesives/fasteners: use CA or epoxy as noted; see BOM for sizes.
+
+## License and scope
+
+- Documentation here supports the Cults3D filesets only.
+- STL files are not hosted here; download from Cults3D.
+- Do not redistribute models or docs outside your license terms.
+
+<div style="text-align:center; margin-top:1.2rem; opacity:0.8; font-size:0.95rem;">
+	Last updated: November 2025
+</div>
