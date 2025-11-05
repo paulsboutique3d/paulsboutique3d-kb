@@ -1,7 +1,6 @@
 # Paul's Boutique 3D — Build guides for Cults3D filesets
 
-This repository contains print and assembly documentation for Paul's Boutique 3D filesets listed on Cults3D. It does not host STL files and does not cover unrelated products or services.
-
+This repository contains print and assembly documentation for Paul's Boutique 3D filesets listed on Cults3D. 
 ## Get the 3D models
 
 - All STL files are available on Cults3D: https://cults3d.com/en/users/PaulsBoutique3D/3d-models
