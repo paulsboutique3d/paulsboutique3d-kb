@@ -21,7 +21,23 @@ This knowledge base contains comprehensive build guides, assembly instructions, 
 
 ---
 
-## 📚 Build Guides
+## � Resources & Links
+
+### Get Everything You Need to Build
+
+**🖨️ 3D Models** - Download STL files for all projects  
+[![Cults3D](https://img.shields.io/badge/Visit-Cults3D-FF5722?style=flat-square)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
+
+**⚡ Electronics** - Pre-made PCBs, components & kits  
+[![Store](https://img.shields.io/badge/Visit-Store-00BCD4?style=flat-square)](https://store.paulsboutique3d.com)
+
+**📧 Support** - Questions? Custom orders?  
+[![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com)
+
+---
+
+
+## �📚 Build Guides
 
 ### 🔫 M41A Pulse Rifle
 **[→ View Build Guide](m41a/)**
@@ -140,7 +156,13 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 
 ---
 
-##  Tips for Success
+
+## 💡 Tips for Success
+
+> **🎯 Plan Your Build**
+> - Read through the entire guide before starting
+> - Gather all materials and tools first
+> - Print test pieces to check fit
 
 > **🔧 Take Your Time**
 > - Don't rush the assembly process
@@ -157,6 +179,7 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 ## 🤝 Community & Support
 
 - 💬 Found an error? Submit an issue or pull request
+- 🌟 Share your builds and tag us!
 - 📧 Need help? Contact us at [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)
 
 ---
