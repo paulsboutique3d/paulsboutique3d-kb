@@ -1,119 +1,252 @@
-# Paul's Boutique 3D - Knowledge Base
+<div align="center">
 
-Welcome to the Paul's Boutique 3D Knowledge Base! This repository contains comprehensive build guides, assembly instructions, bills of materials, and technical documentation for all our prop replica projects.
+# 🚀 Paul's Boutique 3D
 
-## About
+### *Precision Prop Replicas & Build Guides*
 
-Paul's Boutique 3D specializes in creating highly detailed prop replicas from iconic sci-fi films. Our designs combine precision 3D printing with traditional fabrication techniques to produce screen-accurate replicas with functional features including electronics, lighting, and mechanical components.
+[![Cults3D](https://img.shields.io/badge/3D_Models-Cults3D-FF5722?style=for-the-badge&logo=cults3d)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
+[![Store](https://img.shields.io/badge/Electronics-Store-00BCD4?style=for-the-badge&logo=shopify)](https://store.paulsboutique3d.com)
+[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:admin@paulsboutique3d.com)
 
-## Build Guides
+---
 
-### M41A Pulse Rifle
-**[M41A Build Guide →](m41a/)**
+</div>
 
-The classic M41A Pulse Rifle from Aliens. This build combines a Thompson submachine gun receiver with Remington 870 shotgun components, custom shrouds, and full electronics including LED lighting, sound effects, and digital round counter.
+## 🎯 About
 
-- Complete assembly instructions for Thompson and Remington components
-- Electronics installation with LED displays and sound
-- Paint specifications and finishing guide
-- Full bill of materials
+Welcome to **Paul's Boutique 3D** – your ultimate resource for building screen-accurate prop replicas from iconic sci-fi films! 
 
-### M41A MK2 Pulse Rifle
-**[M41A MK2 Build Guide →](m41a-mk2/)**
+We specialize in creating highly detailed prop replicas that combine:
+- 🖨️ **Precision 3D Printing** with traditional fabrication techniques
+- ⚡ **Functional Electronics** including LEDs, sound effects, and displays
+- 🔧 **Mechanical Components** with working trigger mechanisms and moving parts
+- 🎨 **Screen Accuracy** with authentic paint schemes and weathering
 
-An updated variant of the M41A with refined internal mechanisms and improved spring configurations for better functionality and reliability. Features detailed spring specifications and enhanced trigger mechanisms.
+This knowledge base contains comprehensive build guides, assembly instructions, bills of materials, and technical documentation for all our projects.
 
-- Updated Thompson receiver assembly
-- Breech bolt with spring specifications
-- U1 springs configuration guide
-- Improved shroud assembly
+---
 
-### M41A/2 Pulse Rifle
-**[M41A/2 Build Guide →](m41a-2/)**
+## 📚 Build Guides
 
-A variant of the M41A Pulse Rifle featuring improved internal mechanisms and refined component fit with updated Thompson internals and enhanced Remington integration.
+## 📚 Build Guides
 
-- Thompson inner mechanism assembly
-- Remington component integration
-- Shroud and front vent assembly
+<table>
+<tr>
+<td width="50%">
 
-### M314 Motion Tracker
-**[M314 Motion Tracker Build Guide →](m314/)**
+### 🔫 M41A Pulse Rifle
+**[→ View Build Guide](m41a/)**
 
-The iconic Motion Tracker built around a modified Kango hammer drill body with vintage photographic equipment including Vivitar 2000 flash, Hama accessories, and custom components.
+The legendary M41A Pulse Rifle from *Aliens*. Features Thompson/Remington combo with full electronics.
 
-- Kango hammer drill assembly
-- Vivitar 2000 flash integration
-- Hama remote release and accessories
-- Jobo mini light attachment
-- Complete donor parts guide
+**Highlights:**
+- ✅ Complete Thompson & Remington assembly
+- 💡 LED lighting & sound effects
+- 📟 Digital round counter
+- 🎨 Paint & finishing guide
 
-### M240 Flamethrower
-**[M240 Flamethrower Build Guide →](m240/)**
+</td>
+<td width="50%">
 
-The M240 Incinerator Unit prop replica featuring custom 3D printed components with copper pipe integration for an authentic appearance.
+### ⚡ M41A MK2 Pulse Rifle
+**[→ View Build Guide](m41a-mk2/)**
 
-- Complete assembly with exploded views
-- Copper pipe specifications (12.7mm diameter)
-- Detailed hardware requirements
-- Trigger spring mechanism
+Updated MK2 variant with refined mechanisms and improved reliability.
 
-### F44AA
-**[F44AA Build Guide →](f44aa/)**
+**Highlights:**
+- ✅ Enhanced trigger mechanisms
+- 🔩 Detailed spring specifications
+- 🔧 Improved breech bolt design
+- 📐 U1 springs configuration
 
-A detailed prop replica featuring working trigger mechanisms, LED lighting, dual IPS screens, sound effects, and multiple spring-loaded components.
+</td>
+</tr>
 
-- Base assembly and trigger mechanisms
-- Electronics integration (microswitches, IPS screens, RGB LEDs)
-- Complete spring specifications
-- Rear stock and piston assembly
-- Target screen mechanism
+<tr>
+<td width="50%">
 
-### Lacrima99
-**[Lacrima99 Build Guide →](lacrima99/)**
+### 🎯 M41A/2 Pulse Rifle
+**[→ View Build Guide](m41a-2/)**
 
-Lacrima99 prop replica with detailed assembly instructions and component specifications.
+Variant build with improved internals and enhanced component integration.
 
-- Complete assembly documentation
-- Component breakdown
+**Highlights:**
+- ✅ Updated Thompson inner mechanism
+- 🔩 Enhanced Remington integration
+- 🛠️ Refined shroud assembly
+- 📏 Improved component fit
 
-### Ace of Spades Hand Cannon
-**[Ace of Spades Build Guide →](ace-of-spades-hand-cannon/)**
+</td>
+<td width="50%">
 
-The exotic hand cannon from Destiny, featuring intricate details and mechanical components.
+### 📡 M314 Motion Tracker
+**[→ View Build Guide](m314/)**
 
-## Resources
+Iconic Motion Tracker built with Kango drill and vintage camera equipment.
 
-### Purchase 3D Models
-Visit our Cults3D store for STL files and 3D printable models:
-**[https://cults3d.com/en/users/PaulsBoutique3D/3d-models](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)**
+**Highlights:**
+- ✅ Kango hammer drill base
+- 📸 Vivitar 2000 flash integration
+- 🎛️ Hama accessories & components
+- 💡 Jobo mini light attachment
 
-### Electronics & Components
-Purchase electronics kits, custom PCBs, and components:
-**[https://store.paulsboutique3d.com](https://store.paulsboutique3d.com)**
+</td>
+</tr>
 
-### Contact
-For questions, custom orders, or support:
-**Email: [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)**
+<tr>
+<td width="50%">
 
-## Repository Structure
+### 🔥 M240 Flamethrower
+**[→ View Build Guide](m240/)**
 
-Each project folder contains:
-- **README.md** - Overview and getting started guide
-- **Assembly guides** - Step-by-step build instructions with images
-- **BOM (Bill of Materials)** - Complete parts lists with specifications
-- **Images/** - Reference photos and assembly diagrams
+The M240 Incinerator Unit with authentic copper pipe details.
 
-## Contributing
+**Highlights:**
+- ✅ Custom 3D printed components
+- 🔩 Copper pipe integration (12.7mm)
+- 📋 Complete hardware BOM
+- 🔧 Trigger spring mechanism
 
-Found an error or have improvements to suggest? Feel free to submit issues or pull requests to help improve this documentation.
+</td>
+<td width="50%">
 
-## License
+### 🎮 F44AA
+**[→ View Build Guide](f44aa/)**
+
+Advanced build with dual IPS screens, RGB LEDs, and complex mechanisms.
+
+**Highlights:**
+- ✅ Dual 1.9" IPS displays
+- 💡 WS2812 RGB LED lighting
+- 🔊 Dayton speaker integration
+- ⚙️ Multiple spring-loaded components
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💧 Lacrima99
+**[→ View Build Guide](lacrima99/)**
+
+Detailed prop replica with comprehensive assembly documentation.
+
+**Highlights:**
+- ✅ Complete build instructions
+- 📐 Component specifications
+- 🛠️ Assembly diagrams
+
+</td>
+<td width="50%">
+
+### 🎲 Ace of Spades
+**[→ View Build Guide](ace-of-spades-hand-cannon/)**
+
+Exotic hand cannon from *Destiny* with intricate mechanical details.
+
+**Highlights:**
+- ✅ Intricate detail work
+- ⚙️ Mechanical components
+- 🎨 Game-accurate design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛒 Resources & Links
+
+<div align="center">
+
+### Get Everything You Need to Build
+
+| Resource | Description | Link |
+|:--------:|:------------|:----:|
+| 🖨️ **3D Models** | Download STL files for all projects | [![Cults3D](https://img.shields.io/badge/Visit-Cults3D-FF5722?style=flat-square)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models) |
+| ⚡ **Electronics** | Pre-made PCBs, components & kits | [![Store](https://img.shields.io/badge/Visit-Store-00BCD4?style=flat-square)](https://store.paulsboutique3d.com) |
+| 📧 **Support** | Questions? Custom orders? | [![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com) |
+
+</div>
+
+---
+
+## 📖 What's Inside Each Guide
+
+Every project folder contains comprehensive documentation:
+
+```
+📁 project-name/
+├── 📄 README.md                    # Overview & getting started
+├── 📄 assembly-guide.md            # Step-by-step instructions
+├── 📄 bom.md                       # Complete parts list
+├── 📄 electronics-install.md       # Wiring & electronics
+└── 📁 images/                      # Reference photos & diagrams
+```
+
+**Each guide includes:**
+- ✨ Detailed step-by-step assembly instructions
+- 📸 High-quality reference images
+- 📋 Complete bills of materials (BOM)
+- ⚡ Electronics installation guides
+- 🔩 Hardware specifications
+- 🎨 Paint colors and finishing techniques
+- 🔧 Tools and equipment needed
+
+---
+
+## 🎓 Skill Levels
+
+| Symbol | Level | Description |
+|:------:|:------|:------------|
+| 🟢 | **Beginner** | Basic 3D printing and assembly skills |
+| 🟡 | **Intermediate** | Electronics knowledge helpful |
+| 🔴 | **Advanced** | Complex mechanisms & electronics |
+
+---
+
+## 💡 Tips for Success
+
+> **🎯 Plan Your Build**
+> - Read through the entire guide before starting
+> - Gather all materials and tools first
+> - Print test pieces to check fit
+
+> **🔧 Take Your Time**
+> - Don't rush the assembly process
+> - Test fit components before gluing
+> - Follow the recommended build order
+
+> **🎨 Finishing Touches**
+> - Use recommended paint brands for accuracy
+> - Apply primer for best results
+> - Consider weathering for realism
+
+---
+
+## 🤝 Community & Support
+
+- 💬 Found an error? Submit an issue or pull request
+- 🌟 Share your builds and tag us!
+- 📧 Need help? Contact us at [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)
+
+---
+
+## 📜 License
 
 Documentation and images © Paul's Boutique 3D. All rights reserved.
 
 ---
 
+<div align="center">
+
+### 🌟 Happy Building! 🌟
+
+**Made with ❤️ by Paul's Boutique 3D**
+
 *Last Updated: November 2025*
 
-**Happy Building! 🔧🎨🚀**
+[![Cults3D](https://img.shields.io/badge/Follow-Cults3D-FF5722?style=social)](https://cults3d.com/en/users/PaulsBoutique3D/3d-models)
+
+</div>
