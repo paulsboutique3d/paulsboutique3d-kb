@@ -28,8 +28,6 @@ This knowledge base contains comprehensive build guides, assembly instructions, 
 
 ## 📚 Build Guides
 
-## 📚 Build Guides
-
 <table>
 <tr>
 <td width="50%">
