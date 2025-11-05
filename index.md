@@ -21,7 +21,6 @@ title: Paul's Boutique 3D - Prop Replica Build Guides
 Welcome to **Paul's Boutique 3D** – your ultimate resource for building screen-accurate prop replicas from iconic sci-fi films! 
 
 We specialize in creating highly detailed prop replicas that combine:
-- 🖨️ **Precision 3D Printing** with traditional fabrication techniques
 - ⚡ **Functional Electronics** including LEDs, sound effects, and displays
 - 🔧 **Mechanical Components** with working trigger mechanisms and moving parts
 - 🎨 **Screen Accuracy** with authentic paint schemes and weathering
@@ -146,40 +145,6 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 
 **📧 Support** - Questions? Custom orders?  
 [![Email](https://img.shields.io/badge/Contact-admin@paulsboutique3d.com-EA4335?style=flat-square)](mailto:admin@paulsboutique3d.com)
-
----
-
-## 📖 What's Inside Each Guide
-
-Every project folder contains comprehensive documentation:
-
-```
-📁 project-name/
-├── 📄 README.md                    # Overview & getting started
-├── 📄 assembly-guide.md            # Step-by-step instructions
-├── 📄 bom.md                       # Complete parts list
-├── 📄 electronics-install.md       # Wiring & electronics
-└── 📁 images/                      # Reference photos & diagrams
-```
-
-**Each guide includes:**
-- ✨ Detailed step-by-step assembly instructions
-- 📸 High-quality reference images
-- 📋 Complete bills of materials (BOM)
-- ⚡ Electronics installation guides
-- 🔩 Hardware specifications
-- 🎨 Paint colors and finishing techniques
-- 🔧 Tools and equipment needed
-
----
-
-## 🎓 Skill Levels
-
-| Symbol | Level | Description |
-|:------:|:------|:------------|
-| 🟢 | **Beginner** | Basic 3D printing and assembly skills |
-| 🟡 | **Intermediate** | Electronics knowledge helpful |
-| 🔴 | **Advanced** | Complex mechanisms & electronics |
 
 ---
 
