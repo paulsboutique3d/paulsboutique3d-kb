@@ -172,7 +172,6 @@ Exotic hand cannon from *Destiny* with intricate mechanical details.
 ## 🤝 Community & Support
 
 - 💬 Found an error? Submit an issue or pull request
-- 🌟 Share your builds and tag us!
 - 📧 Need help? Contact us at [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com)
 
 ---
