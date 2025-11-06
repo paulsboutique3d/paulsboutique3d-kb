@@ -3,8 +3,8 @@ layout: default
 title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 ---
 
-<div style="text-align:center; padding: 1.25rem 0 1rem;">
-  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j8l5kk0k19lbf6e15t81aef1pb6u.png" alt="Paul's Boutique 3D electronics banner" style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-bottom: 0.8rem;" />
+<div style="padding: 1.25rem 0 1rem;">
+  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j8l5kk0k19lbf6e15t81aef1pb6u.png" alt="Paul's Boutique 3D electronics banner" style="max-width:500px; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 0.8rem; display:block;" />
 	<h1 style="margin:0.2rem 0 0.4rem; font-weight:700;">Paul's Boutique 3D</h1>
 	<p style="margin:0; font-size:1.1rem; opacity:0.9;">Build guides and print notes for Cults3D filesets</p>
 	<p style="margin:0.8rem 0 0;">
