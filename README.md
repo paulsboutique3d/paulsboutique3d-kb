@@ -15,7 +15,6 @@ This repository contains print and assembly documentation for Paul's Boutique 3D
 ## Project guides
 
 - [M41A Pulse Rifle](m41a/)
-	- Assembly, electronics install, paint notes, and BOM listing.
 - [M41A MK2 Pulse Rifle](m41a-mk2/)
 - [M41A/2 Pulse Rifle](m41a-2/)
 - [M314 Motion Tracker](m314/)
@@ -31,7 +30,6 @@ Each folder contains one or more markdown files with step-by-step assembly. Wher
 - Material: PLA+ or PETG are recommended unless a guide specifies otherwise.
 - Layer height: ~0.20 mm for general parts; use finer layers for cosmetic surfaces if desired.
 - Walls/perimeters: 3–4; infill: 20–35% (per part requirements).
-- Supports: only where a guide indicates; orient parts as shown in the guide images.
 - Tolerances: print a small test piece if you’re unsure; light sanding may be required on mating features.
 - Adhesives/fasteners: use CA or epoxy as noted; fastener sizes are listed in the project BOMs.
 
@@ -39,6 +37,6 @@ Each folder contains one or more markdown files with step-by-step assembly. Wher
 
 - This documentation is provided for personal builds of the corresponding Cults3D filesets.
 - STL files are not included here; download them from Cults3D.
-- Do not redistribute the models or documentation outside the terms of the Cults3D license.
+
 
 Last updated: November 2025
