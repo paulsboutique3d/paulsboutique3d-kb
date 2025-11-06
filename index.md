@@ -4,6 +4,7 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 ---
 
 <div style="text-align:center; padding: 1.25rem 0 1rem;">
+  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1600/https://pe56d.s3.amazonaws.com/o_1j8mrohh11anfc19d1d6nqo9hi.jpg" alt="Paul's Boutique 3D electronics banner" style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-bottom: 0.8rem;" />
 	<h1 style="margin:0.2rem 0 0.4rem; font-weight:700;">Paul's Boutique 3D</h1>
 	<p style="margin:0; font-size:1.1rem; opacity:0.9;">Build guides and print notes for Cults3D filesets</p>
 	<p style="margin:0.8rem 0 0;">
@@ -39,23 +40,23 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 	</div>
 	<div class="pb-card">
 		<h3>⚡ <a href="m41a-mk2/">M41A MK2 Pulse Rifle</a></h3>
-		<p>Refined mechanisms and spring specs.</p>
+		<p>M41A MK2 from the 2013 video game.</p>
 	</div>
 	<div class="pb-card">
 		<h3>🎯 <a href="m41a-2/">M41A/2 Pulse Rifle</a></h3>
-		<p>Updated internals and shroud assembly.</p>
+		<p>M41A/2 from the 2010 video game.</p>
 	</div>
 	<div class="pb-card">
 		<h3>📡 <a href="m314/">M314 Motion Tracker</a></h3>
-		<p>Kango base, camera/flash integration, accessories.</p>
+		<p>Tracker from Aliens.</p>
 	</div>
 	<div class="pb-card">
 		<h3>🔥 <a href="m240/">M240 Incinerator Unit</a></h3>
-		<p>3D printed parts, copper pipe integration, hardware BOM.</p>
+		<p>Incinerator unit from Aliens.</p>
 	</div>
 	<div class="pb-card">
 		<h3>🎮 <a href="f44aa/">F44AA</a></h3>
-		<p>Dual IPS screens, RGB LEDs, speaker integration.</p>
+		<p>F44AA from Alien Romulus.</p>
 	</div>
 	<div class="pb-card">
 		<h3>💧 <a href="lacrima99/">Lacrima99</a></h3>
