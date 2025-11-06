@@ -3,8 +3,8 @@ layout: default
 title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 ---
 
-<div style="padding: 2rem 0 1.5rem; margin-left: -1rem;">
-  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j8l5kk0k19lbf6e15t81aef1pb6u.png" alt="Paul's Boutique 3D" style="max-width:480px; height:auto; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-bottom: 1.5rem; display:block; transition: transform 0.2s ease;" />
+<div style="padding: 2rem 0 1.5rem;">
+	<img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j8l5kk0k19lbf6e15t81aef1pb6u.png" alt="Paul's Boutique 3D" style="max-width:480px; height:auto; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin: 0 auto 1.5rem; display:block; transition: transform 0.2s ease;" />
 	<p style="margin:0 0 1.5rem; font-size:1.15rem; color:#64748b; line-height:1.6; max-width:600px;">Build guides and print notes for Cults3D filesets</p>
 	<div style="display:flex; gap:12px; flex-wrap:wrap;">
 		<a href="https://cults3d.com/en/users/PaulsBoutique3D/3d-models" style="display:inline-flex; align-items:center; background:linear-gradient(135deg, #ff6b4a 0%, #ff5722 100%); color:#fff; padding:0.7rem 1.3rem; border-radius:10px; text-decoration:none; font-weight:600; font-size:0.95rem; box-shadow:0 3px 12px rgba(255,87,34,0.25); transition:all 0.2s ease;">
