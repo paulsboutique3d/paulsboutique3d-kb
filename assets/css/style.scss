@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Remove the Cayman theme's green-blue gradient header */
+.page-header {
+  background-image: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Hide the default title and description from the theme */
+.project-name,
+.project-tagline {
+  display: none !important;
+}

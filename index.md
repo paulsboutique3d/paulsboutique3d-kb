@@ -4,7 +4,7 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 ---
 
 <div style="text-align:center; padding: 1.25rem 0 1rem;">
-  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1600/https://pe56d.s3.amazonaws.com/o_1j8mrohh11anfc19d1d6nqo9hi.jpg" alt="Paul's Boutique 3D electronics banner" style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-bottom: 0.8rem;" />
+  <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j8l5kk0k19lbf6e15t81aef1pb6u.png" alt="Paul's Boutique 3D electronics banner" style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 2px 12px rgba(0,0,0,0.12); margin-bottom: 0.8rem;" />
 	<h1 style="margin:0.2rem 0 0.4rem; font-weight:700;">Paul's Boutique 3D</h1>
 	<p style="margin:0; font-size:1.1rem; opacity:0.9;">Build guides and print notes for Cults3D filesets</p>
 	<p style="margin:0.8rem 0 0;">
@@ -36,7 +36,7 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 <div class="pb-grid">
 	<div class="pb-card">
 		<h3>🔫 <a href="m41a/">M41A Pulse Rifle</a> <span class="pb-badge">guide</span></h3>
-		<p>Assembly, electronics install, paint notes, BOM.</p>
+		<p>The Iconic M41A from Aliens.</p>
 	</div>
 	<div class="pb-card">
 		<h3>⚡ <a href="m41a-mk2/">M41A MK2 Pulse Rifle</a></h3>
@@ -60,11 +60,11 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 	</div>
 	<div class="pb-card">
 		<h3>💧 <a href="lacrima99/">Lacrima99</a></h3>
-		<p>Comprehensive assembly documentation.</p>
+		<p>Lacrima99 from the comedy Aliens4 .</p>
 	</div>
 	<div class="pb-card">
 		<h3>🎲 <a href="ace-of-spades-hand-cannon/">Ace of Spades Hand Cannon</a></h3>
-		<p>Intricate mechanical details; game-accurate design.</p>
+		<p>Destiny 2 video game.</p>
 	</div>
 </div>
 
