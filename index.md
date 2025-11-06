@@ -99,15 +99,15 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 
 <div class="pb-grid">
 	<div class="pb-card">
-		<h3>🔫 <a href="m41a/">M41A Pulse Rifle</a> <span class="pb-badge">guide</span></h3>
+		<h3>🔫 <a href="m41a/">M41A Pulse Rifle</a></h3>
 		<p>The Iconic M41A from Aliens.</p>
 	</div>
 	<div class="pb-card">
-		<h3>⚡ <a href="m41a-mk2/">M41A MK2 Pulse Rifle</a></h3>
+		<h3>🔫 <a href="m41a-mk2/">M41A MK2 Pulse Rifle</a></h3>
 		<p>M41A MK2 from the 2013 video game.</p>
 	</div>
 	<div class="pb-card">
-		<h3>🎯 <a href="m41a-2/">M41A/2 Pulse Rifle</a></h3>
+		<h3>🔫 <a href="m41a-2/">M41A/2 Pulse Rifle</a></h3>
 		<p>M41A/2 from the 2010 video game.</p>
 	</div>
 	<div class="pb-card">
@@ -119,11 +119,11 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 		<p>Incinerator unit from Aliens.</p>
 	</div>
 	<div class="pb-card">
-		<h3>🎮 <a href="f44aa/">F44AA</a></h3>
+		<h3>🔫 <a href="f44aa/">F44AA</a></h3>
 		<p>F44AA from Alien Romulus.</p>
 	</div>
 	<div class="pb-card">
-		<h3>💧 <a href="lacrima99/">Lacrima99</a></h3>
+		<h3>🔫 <a href="lacrima99/">Lacrima99</a></h3>
 		<p>Lacrima99 from the comedy Aliens4 .</p>
 	</div>
 	<div class="pb-card">
@@ -141,7 +141,6 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 <li><strong>Material:</strong> PLA+ or PETG unless a guide specifies otherwise.</li>
 <li><strong>Layer height:</strong> ~0.20 mm; use finer layers for cosmetic surfaces if needed.</li>
 <li><strong>Walls/perimeters:</strong> 3–4; infill: 20–35% (per part requirements).</li>
-<li><strong>Supports:</strong> only where indicated; orient parts as shown in guide images.</li>
 <li><strong>Tolerances:</strong> print a small test piece if unsure; light sanding may be required.</li>
 <li><strong>Adhesives/fasteners:</strong> use CA or epoxy as noted; see BOM for sizes.</li>
 </ul>
