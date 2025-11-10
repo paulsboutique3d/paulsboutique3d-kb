@@ -1,6 +1,7 @@
 # M41A Static Counter — DIP Switches
 
-_Source file_: [`./assets/M41A Static counter DIP switches.pdf`](./assets/M41A Static counter DIP switches.pdf)
+_Source file_: [`./assets/M41A-DIP.pdf`](./assets/M41A-DIP.pdf)
+
 
 
 
