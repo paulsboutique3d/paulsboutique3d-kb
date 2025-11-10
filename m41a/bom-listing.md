@@ -2,4 +2,4 @@
 
 Updated31/12/2024
 
-[BOM](../assets/BOM.xlsx)
+[BOM](../m41a/assets/BOM.xlsx)
