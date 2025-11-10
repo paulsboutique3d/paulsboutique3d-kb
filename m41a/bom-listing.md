@@ -1,6 +1,6 @@
 # Bill of Materials
 
-_Source file_: `BOM.xlsx`
+_Source file_: `../assets/BOM.xlsx`
 
 
 ## Sheet1
