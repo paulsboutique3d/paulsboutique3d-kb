@@ -6,8 +6,8 @@
 
 ## Quick Links
 
-- **International Shipping (Australia Post)**: See the latest international postage zones and price tables  
-  <https://auspost.com.au/content/dam/auspost_corp/media/documents/post-guides/international-post-charges-easy-guide.pdf>
+- **International Shipping (Australia Post)** – international zones & charges:  
+  <https://auspost.com.au/sending/send-overseas/international-zones>
 - **Storefront**: <https://store.paulsboutique3d.com>
 
 ---
@@ -43,7 +43,7 @@ Version 3 (“V3”) electronics modernise the stack for smoother audio, smarter
 
 **Core characteristics**
 - **MCU**: RP2040 or ESP32 (more RAM/flash, faster I/O)  
-- **Audio**: DF1201S/DFRobot DFPlayer-Pro-class module with robust serial control and stable playback  
+- **Audio**: DF1201S/DFPlayer-Pro-class module with robust serial control and stable playback  
 - **Display/Counter**: Option A – classic 7-segment (MAX7219); Option B – compact IPS/TFT for richer UI  
 - **Sensors**: Hall-effect trigger & magazine detect with debounced logic; low-battery sense input  
 - **Lighting**: Full WS2812/NeoPixel barrel/receiver animations via DMA-friendly drivers  
@@ -83,14 +83,24 @@ Version 3 (“V3”) electronics modernise the stack for smoother audio, smarter
 
 ---
 
-## Sourcing
+## International Shipping — Guide Rates (AUD)
 
-- Core MCU, MP3 module, LED strips, JST-XH, Mini-XLR, and MOSFETs are widely available from local AU suppliers (Jaycar, Core Electronics) or reputable online vendors.  
-- Prefer genuine regulators, logic-level MOSFETs (e.g., AO3400/AO3407 class), and decent gauge silicone wire for flexible runs.
+> **Disclaimer:** Prices may change; final shipping is calculated at checkout.  
+> These guide rates are based on Australia Post **International Standard parcels**.
+
+| Destination zone                     | Up to 250g | Over 250g up to 500g | Over 500g up to 1kg | Over 1kg up to 1.5kg | Over 1.5kg up to 2kg |
+|---|---:|---:|---:|---:|---:|
+| **Zone 1: New Zealand**              | $16.30 | $19.65 | $26.40 | $33.15 | $39.90 |
+| **Zone 2: Asia Pacific**             | $19.95 | $26.00 | $38.15 | $50.30 | $62.45 |
+| **Zone 3: US and Canada**            | $22.30 | $29.00 | $42.20 | $55.55 | $68.85 |
+| **Zone 4: UK and Europe**            | $27.50 | $34.40 | $48.30 | $62.15 | $76.00 |
+| **Zone 5: Rest of the World**        | $33.50 | $42.40 | $60.50 | $78.55 | $96.65 |
+
+For detailed zone definitions and the most current tables, see Australia Post’s **International zones** page:  
+<https://auspost.com.au/sending/send-overseas/international-zones>
 
 ---
 
 ### Support
 
 If you get stuck, ping me via the store contact page or include a short video/wiring photo when you open an issue—makes troubleshooting heaps faster.
-
