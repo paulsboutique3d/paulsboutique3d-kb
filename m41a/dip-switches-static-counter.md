@@ -1,13 +1,13 @@
 # M41A Static Counter — DIP Switches
 
-_Source file_: [`./assets/M41A Static counter DIP switches.pdf`](./m41a/assets/M41A Static counter DIP switches.pdf)
+_Source file_: [`./assets/M41A Static counter DIP switches.pdf`](./assets/M41A Static counter DIP switches.pdf)
 
-> The following content was extracted automatically from the PDF.
+
 
 M41A Static counter DIP switches
 Hardcoded to display 00 when there is no magazine inserted.
 The Display comes pre -set at 95 when the microswitch is pressed in by the magazine.
-Carefully s lide the DIP switch to the ON (1) position with a small flat screwdriver to match the table
+Carefully slide the DIP switch to the ON (1) position with a small flat screwdriver to match the table
 below to set the number you wish to display.
 
 ### Decimal → DIP switch positions
