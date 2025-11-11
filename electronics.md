@@ -14,6 +14,8 @@
 > 
 > These guide rates are based on Australia Post **International Standard parcels**.  
 > **All prices are shown in AUD.**
+>
+> Generally for a single full kit, it falls into the 250g to 500g rate.
 
 | Destination zone                     | Up to 250g (AUD) | Over 250g up to 500g (AUD) | Over 500g up to 1kg (AUD) | Over 1kg up to 1.5kg (AUD) | Over 1.5kg up to 2kg (AUD) |
 |---|---:|---:|---:|---:|---:|
@@ -47,5 +49,6 @@
 ### Support
 
 If you get stuck, ping me via the store contact page..
+
 
 
