@@ -1,15 +1,20 @@
 # Electronics
 
-> This page covers the electronics options for my kits, including differences between Version 2 and Version 3 builds, recommended parts, wiring notes, and firmware pointers.
+> This page covers shipping guidance and notes relevant to my kits.  
+> **Version differences below refer to the *shrouds*.
+
+**Store:** <https://store.paulsboutique3d.com>  
+**Currency:** **All prices on this page are in AUD (Australian Dollars).**
 
 ---
 
 ## International Shipping — Guide Rates (AUD)
 
 > **Disclaimer:** Prices may change; final shipping is calculated at checkout.  
-> These guide rates are based on Australia Post **International Standard parcels**.
+> These guide rates are based on Australia Post **International Standard parcels**.  
+> **All prices are shown in AUD.**
 
-| Destination zone                     | Up to 250g | Over 250g up to 500g | Over 500g up to 1kg | Over 1kg up to 1.5kg | Over 1.5kg up to 2kg |
+| Destination zone                     | Up to 250g (AUD) | Over 250g up to 500g (AUD) | Over 500g up to 1kg (AUD) | Over 1kg up to 1.5kg (AUD) | Over 1.5kg up to 2kg (AUD) |
 |---|---:|---:|---:|---:|---:|
 | **Zone 1: New Zealand**              | $16.30 | $19.65 | $26.40 | $33.15 | $39.90 |
 | **Zone 2: Asia Pacific**             | $19.95 | $26.00 | $38.15 | $50.30 | $62.45 |
@@ -22,23 +27,24 @@ For detailed zone definitions and the most current tables, see Australia Post’
 
 ---
 
-## Version 2 Variations
+## Version 2 Shroud (V2)
 
-Version 2 (“V2”) electronics are the original, battle-tested setup designed for straightforward assembly with widely available parts.
-
-
----
-
-## Version 3 Variations
-
-
+- Original geometry and profile.  
+- **Narrower shroud**; not designed for airsoft magazines.  
+- Works with my existing V2 build.  
+- Great if you’re matching older builds.
 
 ---
 
+## Version 3 Shroud (V3)
 
+- **Wider shroud**—accepts **airsoft magazines** natively.  
+- Updated clearances and interfaces for easier assembly and alignment.  
+- Compatible with common aftermarket parts (e.g., SD Studios mag base)  
+- Recommended for new builds, especially if you want airsoft mag compatibility out of the box.
 
+---
 
 ### Support
 
-If you get stuck, ping me via the store contact page or include a short video/wiring photo when you open an issue—makes troubleshooting heaps faster.
-
+If you get stuck, ping me via the store contact page..
