@@ -10,7 +10,8 @@
 
 ## International Shipping — Guide Rates (AUD)
 
-> **Disclaimer:** Prices may change; final shipping is calculated at checkout.  
+> **Disclaimer:** Prices may change; **final shipping is calculated at checkout**.
+> 
 > These guide rates are based on Australia Post **International Standard parcels**.  
 > **All prices are shown in AUD.**
 
@@ -22,8 +23,6 @@
 | **Zone 4: UK and Europe**            | $27.50 | $34.40 | $48.30 | $62.15 | $76.00 |
 | **Zone 5: Rest of the World**        | $33.50 | $42.40 | $60.50 | $78.55 | $96.65 |
 
-For detailed zone definitions and the most current tables, see Australia Post’s **International zones** page:  
-<https://auspost.com.au/sending/send-overseas/international-zones>
 
 ---
 
@@ -48,3 +47,4 @@ For detailed zone definitions and the most current tables, see Australia Post’
 ### Support
 
 If you get stuck, ping me via the store contact page..
+
