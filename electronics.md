@@ -40,7 +40,6 @@
 ## Version 3 Electronics for Shroud (V3)
 
 - **Wider shroud**—accepts **airsoft magazines** natively.  
-- Updated clearances and interfaces for easier assembly and alignment.  
 - Compatible with common aftermarket parts (e.g., SD Studios mag base)  
 - Recommended for new builds, especially if you want airsoft mag compatibility out of the box.
 
@@ -49,6 +48,7 @@
 ### Support
 
 If you get stuck, ping me via the store contact page..
+
 
 
 
