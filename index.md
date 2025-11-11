@@ -13,8 +13,8 @@ title: Paul's Boutique 3D — Cults3D Fileset Build Guides
 		<a href="https://store.paulsboutique3d.com" style="display:inline-flex; align-items:center; background:linear-gradient(135deg, #14b8d4 0%, #0891b2 100%); color:#fff; padding:0.7rem 1.3rem; border-radius:10px; text-decoration:none; font-weight:600; font-size:0.95rem; box-shadow:0 3px 12px rgba(8,145,178,0.25); transition:all 0.2s ease;">
 			<span style="margin-right:6px;">⚡</span> Electronics store
 		</a>
-		<!-- NEW: FAQ button pointing to Electronics.md -->
-		<a href="{{ '/Electronics.md' | relative_url }}" style="display:inline-flex; align-items:center; background:linear-gradient(135deg, #818cf8 0%, #6366f1 100%); color:#fff; padding:0.7rem 1.3rem; border-radius:10px; text-decoration:none; font-weight:600; font-size:0.95rem; box-shadow:0 3px 12px rgba(99,102,241,0.25); transition:all 0.2s ease;">
+		<!-- NEW: FAQ button pointing to the root-level electronics.md -->
+		<a href="{% link electronics.md %}" style="display:inline-flex; align-items:center; background:linear-gradient(135deg, #818cf8 0%, #6366f1 100%); color:#fff; padding:0.7rem 1.3rem; border-radius:10px; text-decoration:none; font-weight:600; font-size:0.95rem; box-shadow:0 3px 12px rgba(99,102,241,0.25); transition:all 0.2s ease;">
 			<span style="margin-right:6px;">❓</span> FAQ
 		</a>
 		<a href="mailto:admin@paulsboutique3d.com" style="display:inline-flex; align-items:center; background:linear-gradient(135deg, #f87171 0%, #ef4444 100%); color:#fff; padding:0.7rem 1.3rem; border-radius:10px; text-decoration:none; font-weight:600; font-size:0.95rem; box-shadow:0 3px 12px rgba(239,68,68,0.25); transition:all 0.2s ease;">
