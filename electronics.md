@@ -26,7 +26,7 @@
 
 ---
 
-## Version 2 Shroud (V2)
+## Version 2 Electronics for Shroud (V2)
 
 - Original geometry and profile.  
 - **Narrower shroud**; not designed for airsoft magazines.  
@@ -35,7 +35,7 @@
 
 ---
 
-## Version 3 Shroud (V3)
+## Version 3 Electronics for Shroud (V3)
 
 - **Wider shroud**—accepts **airsoft magazines** natively.  
 - Updated clearances and interfaces for easier assembly and alignment.  
@@ -47,4 +47,5 @@
 ### Support
 
 If you get stuck, ping me via the store contact page..
+
 
