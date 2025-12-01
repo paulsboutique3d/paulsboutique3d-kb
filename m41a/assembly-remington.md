@@ -31,7 +31,9 @@ Slide the Breech assembly into the reciever
 
 ![](images/8a98bd8cb77f8200577b7facaaad3133.png)
 
-Add both barrels in – the lower barrel should be a tight fit on the reciever, but the upper one(red) should be a fairly easy fit
+Add both barrels in 
+* Glue the lower barrel in with CA or super glue
+  The upper barrel is NOT glued in
 
 ![](images/e2e34d101400be9492abbc4e4e0bed5f.png)
 
