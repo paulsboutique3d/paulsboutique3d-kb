@@ -37,7 +37,7 @@ Add both barrels in
 
 ![](images/e2e34d101400be9492abbc4e4e0bed5f.png)
 
-Screw on end cap to keep it all tight
+Once the remington is installed into the SPAS cage the GL block will keep the whole Remington assembly together with 4 x M3 grub screws 
 
 ![](images/5de84c4f0e4c680879f4f44e53f15b21.png)
 
