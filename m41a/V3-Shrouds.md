@@ -7,6 +7,8 @@ They print in three pieces and are glued together. The lugs are recessed to make
 
 The rear clip is now one piece. The mag-well tabs are removable and secured with two M3×4 mm bolts.
 
+The Additional BOM for screws is 4 x M3x 4mm button head hex and 2 x m3 x 5mm countersunk hex.
+
 ![V3 shroud left inner](images/v3-shroud-left-inner.png)
 ![V3 shroud outer](images/v3-shroud-outer-1.png)
 
