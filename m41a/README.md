@@ -4,6 +4,9 @@ Welcome to the M41A Pulse Rifle build documentation. This guide contains compreh
 
 ## Table of Contents
 
+### Version 3 Changes
+- 
+
 ### Assembly Guides
 - [Assembly – Thompson](assembly-thompson.md) - Thompson receiver assembly instructions
 - [Assembly – Remington](assembly-remington.md) - Remington shotgun component assembly
@@ -27,4 +30,4 @@ The M41A Pulse Rifle is a combination of Thompson submachine gun and Remington 8
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: December 2025*
