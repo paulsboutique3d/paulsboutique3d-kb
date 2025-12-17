@@ -5,7 +5,7 @@ Welcome to the M41A Pulse Rifle build documentation. This guide contains compreh
 ## Table of Contents
 
 ### Version 3 Changes
-- 
+- [V3 Shrouds](V3-shrouds.md)
 
 ### Assembly Guides
 - [Assembly – Thompson](assembly-thompson.md) - Thompson receiver assembly instructions
