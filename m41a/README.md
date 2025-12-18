@@ -18,26 +18,26 @@ Print the following:
 
 ### SPAS
 1. All files in the M41A\V2.5 SPAS folder
-  1. Choose either the standard SPAS cage "V2.5 SPAS" or the thicker solid lower version "V2.5 Thicker solid lower
-  2. Choose one of the front GL blocks
+ - Choose either the standard SPAS cage "V2.5 SPAS" or the thicker solid lower version "V2.5 Thicker solid lower
+ - Choose one of the front GL blocks
 
 ### Front Barrel vents
 1. either a 10hole or 8 hole file in the M41A\V2.5 Front Vents folder
 
 ### Shrouds
 1. all files in the \M41A\Shrouds\V3 folder
-  1. there is the option of a 1 piece rear shroud clip, which screws on to the shroud, or a left and right version that you glue onto the shroud.
+  - There is the option of a 1 piece rear shroud clip, which screws on to the shroud, or a left and right version that you glue onto the shroud.
 
 ### The Airsoft and SD studios folders
 1. If you have an SD studios Stock, then print the following upper Thompson receiver instead:
-  1. "V3 SD Studios Thompson upper"
+ - "V3 SD Studios Thompson upper"
 
 2. If you have a 30 round airsoft mag you wish to use, there is an adapter in the Airsoft folder. You will need to gut the mag and cut the bottom off to suit.
-  2. There is also a vent holder that fits selected airsoft Thompsons.
+ - There is also a vent holder that fits selected airsoft Thompsons.
 
 ### Electronics
 1. If you are wanting to install electronics then substitute out what's in here for your build.
-  1. The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
+ -The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
 2. I sell full kits through my website - www.paulsboutique3d.com
 
 
