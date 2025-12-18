@@ -8,6 +8,7 @@ Welcome to the M41A Pulse Rifle build documentation. This guide contains compreh
 - [V3 Shrouds](V3-Shrouds.md)
 - [V3 Thompson](V3-thompson.md)
 - [V2.5 Thompson Trigger](V2.5-Thompson-Trigger.md)
+- [V3 THompson Magazine](V3-magazine)
 
 ### Assembly Guides
 - [Assembly – Thompson](assembly-thompson.md) - Thompson receiver assembly instructions
