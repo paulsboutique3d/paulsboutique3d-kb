@@ -9,5 +9,5 @@ The V3 Thompson is different from V2 in these areas:
 
 6. A V3 Lower Frame IS compatable with V2, but the upper / Magazine and bolt are not.
 
-
+![V3 thompson](images/V3-thompson.png)
     
