@@ -29,11 +29,11 @@ Print the following:
   1. there is the option of a 1 piece rear shroud clip, which screws on to the shroud, or a left and right version that you glue onto the shroud.
 
 ### The Airsoft and SD studios folders
-2. If you have an SD studios Stock, then print the following upper Thompson receiver instead:
-  2. "V3 SD Studios Thompson upper"
+1. If you have an SD studios Stock, then print the following upper Thompson receiver instead:
+  1. "V3 SD Studios Thompson upper"
 
-3. If you have a 30 round airsoft mag you wish to use, there is an adapter in the Airsoft folder. You will need to gut the mag and cut the bottom off to suit.
-  3. There is also a vent holder that fits selected airsoft Thompsons.
+2. If you have a 30 round airsoft mag you wish to use, there is an adapter in the Airsoft folder. You will need to gut the mag and cut the bottom off to suit.
+  2. There is also a vent holder that fits selected airsoft Thompsons.
 
 ### Electronics
 1. If you are wanting to install electronics then substitute out what's in here for your build.
