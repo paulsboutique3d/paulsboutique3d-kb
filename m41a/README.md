@@ -6,11 +6,11 @@ Welcome to the M41A Pulse Rifle build documentation. This guide contains compreh
 
 To build a current M41A from this file set...
 
-Print the following:<br/>
+Print the following:
 -Thompson
-1.All files in the M41A\Thompson\V2-2.5-3 folder
-2.All files in the M41A\Thompson\V2.5 Static Trigger Assembly Simple folder
-3.All files in the M41A\Thompson\V3 folder <br/>
+1. All files in the M41A\Thompson\V2-2.5-3 folder
+2. All files in the M41A\Thompson\V2.5 Static Trigger Assembly Simple folder
+3. All files in the M41A\Thompson\V3 folder <br/>
  	Choose either the 6 stripe or 7 stripe handle
 
 -Remington
