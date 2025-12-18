@@ -26,18 +26,18 @@ Print the following:
 
 ### Shrouds
 1. all files in the \M41A\Shrouds\V3 folder
-  1a. there is the option of a 1 piece rear shroud clip, which screws on to the shroud, or a left and right version that you glue onto the shroud.
+  1. there is the option of a 1 piece rear shroud clip, which screws on to the shroud, or a left and right version that you glue onto the shroud.
 
 ### The Airsoft and SD studios folders
 2. If you have an SD studios Stock, then print the following upper Thompson receiver instead:
-  2a. "V3 SD Studios Thompson upper"
+  2. "V3 SD Studios Thompson upper"
 
 3. If you have a 30 round airsoft mag you wish to use, there is an adapter in the Airsoft folder. You will need to gut the mag and cut the bottom off to suit.
-  3a. There is also a vent holder that fits selected airsoft Thompsons.
+  3. There is also a vent holder that fits selected airsoft Thompsons.
 
 ### Electronics
 1. If you are wanting to install electronics then substitute out what's in here for your build.
-  1a. The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
+  1. The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
 2. I sell full kits through my website - www.paulsboutique3d.com
 
 
