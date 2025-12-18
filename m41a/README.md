@@ -11,7 +11,7 @@ Print the following:
 1. All files in the M41A\Thompson\V2-2.5-3 folder
 2. All files in the M41A\Thompson\V2.5 Static Trigger Assembly Simple folder
 3. All files in the M41A\Thompson\V3 folder <br/>
- 	1. Choose either the 6 stripe or 7 stripe handle
+ - Choose either the 6 stripe or 7 stripe handle
 
 ### Remington
 1. All files in the M41A\V2.5 Remington folder
@@ -37,7 +37,7 @@ Print the following:
 
 ### Electronics
 1. If you are wanting to install electronics then substitute out what's in here for your build.
- -The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
+ - The only things i do NOT include in this folder are the Speaker box and electronics frame, as i supply them with the full kit.
 2. I sell full kits through my website - www.paulsboutique3d.com
 
 
