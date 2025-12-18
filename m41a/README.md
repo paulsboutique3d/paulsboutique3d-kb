@@ -18,7 +18,7 @@ Print the following:
 
 ### SPAS
 1. All files in the M41A\V2.5 SPAS folder
-  1. Choose either the standard SPAS cage "V2.5 SPAS" or the thicker solid lower version "V2.5 Thicker solid lower"
+  1. Choose either the standard SPAS cage "V2.5 SPAS" or the thicker solid lower version "V2.5 Thicker solid lower
   2. Choose one of the front GL blocks
 
 ### Front Barrel vents
