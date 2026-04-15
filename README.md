@@ -14,6 +14,18 @@ Many many wonderful conversations have been had around the Aliens universe.
 — PB
 
 ---
+
+## Current Stock & Availability
+
+| Item | Status |
+|------|--------|
+| M41A Electronics Kit | In Stock |
+| F44AA Electronics Kit | Coming Soon |
+| M314 Electronics Kit | Coming Soon |
+
+To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) with the item you're interested in.
+
+---
 ## Prop Electronics
 
 - [M41A Electronics-KB](https://github.com/paulsboutique3d/M41A-Electronics-KB)
