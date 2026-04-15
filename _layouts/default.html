@@ -27,5 +27,13 @@
         {{ content }}
       </main>
     </div>
+    <script>
+      document.querySelectorAll('.main-content a').forEach(function(link) {
+        if (!link.href.startsWith('mailto:')) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener');
+        }
+      });
+    </script>
   </body>
 </html>
