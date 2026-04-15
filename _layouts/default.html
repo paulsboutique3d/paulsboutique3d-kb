@@ -30,7 +30,8 @@
     </div>
     <script>
       document.querySelectorAll('.main-content a').forEach(function(link) {
-        if (!link.href.startsWith('mailto:')) {
+        var href = link.href;
+        if (!href.startsWith('mailto:') && link.hostname && link.hostname !== location.hostname) {
           link.setAttribute('target', '_blank');
           link.setAttribute('rel', 'noopener');
         }
