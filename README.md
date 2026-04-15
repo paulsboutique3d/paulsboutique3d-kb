@@ -31,6 +31,7 @@ To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) wi
 ## Prop Electronics
 
 - [M41A Electronics-KB](https://github.com/paulsboutique3d/M41A-Electronics-KB)
+    <br> V2 Shroud and V3 shroud compatible available.
 
 - [F44AA Electronics-KB](https://github.com/paulsboutique3d/F44AA-Electronics-KB)
    <br> Code is done, looking at hardware compatibility - this will be released opensource
