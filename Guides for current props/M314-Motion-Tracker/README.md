@@ -17,6 +17,14 @@ Welcome to the M314 Motion Tracker build documentation. This guide contains comp
 
 All assembly images are located in the `images/` folder within this directory.
 
+### Decals
+
+Printable decals for the M314 Motion Tracker are available in the [Decals](Decals/) folder. These include:
+
+- T28 Olympus panel glass
+- Vivitar top panels
+- Vivitar lower panels
+
 ---
 
-*Last Updated: June 2025*
+*Last Updated: April 2026*
