@@ -4,6 +4,22 @@ Welcome to the M314 Motion Tracker build documentation. This guide contains comp
 
 ## Table of Contents
 
+## BOM
+- 1 x 6.35mm audio jack
+- 1 x 6.35mm female jack
+- 1 x 3.5mm jack
+- 1 x 3.14 mm brass rod
+- screws tba 
+
+### Reference Images
+
+| Part | Image |
+|------|-------|
+| 6.35mm Audio Jack | <!-- ![6.35mm audio jack](images/placeholder.png) --> |
+| 6.35mm Female Jack | <!-- ![6.35mm female jack](images/placeholder.png) --> |
+| 3.5mm Jack | <!-- ![3.5mm jack](images/placeholder.png) --> |
+
+
 ### Main Assembly
 - [M314 Kango Assembly](m314-kango-assembly.md) - Main Kango hammer drill assembly and trigger mechanism
 - [Vivitar, Hama and T28](vivitar-hama-and-t28.md) - Vivitar 2000 flash, Hama components, and T28 assembly
