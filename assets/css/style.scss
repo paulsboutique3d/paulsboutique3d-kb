@@ -22,13 +22,23 @@ body {
   font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
 
+/* Page wrapper */
+.page-wrapper {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
 /* Header */
 .page-header {
   background-image: none;
   background-color: var(--bg-header);
   border-bottom: none;
-  padding: 2.5rem 1rem;
+  padding: 2.5rem 2rem;
   text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  margin-bottom: 2rem;
 }
 
 .project-name {
@@ -66,9 +76,7 @@ body {
 /* Main content */
 .main-content {
   background-color: var(--bg-primary);
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
+  padding: 0;
 }
 
 .main-content h1,

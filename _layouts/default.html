@@ -12,20 +12,20 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <div class="page-wrapper">
+      <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+        <a href="mailto:admin@paulsboutique3d.com" class="btn">Contact</a>
+        <a href="https://www.facebook.com/profile.php?id=61584073824743" class="btn" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://www.instagram.com/pauls_boutique3d/" class="btn" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://cults3d.com/en/users/PaulsBoutique3D/3d-models" class="btn" target="_blank" rel="noopener">Cults3D</a>
+      </header>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-      <a href="mailto:admin@paulsboutique3d.com" class="btn">Contact</a>
-      <a href="https://www.facebook.com/profile.php?id=61584073824743" class="btn" target="_blank" rel="noopener">Facebook</a>
-      <a href="https://www.instagram.com/pauls_boutique3d/" class="btn" target="_blank" rel="noopener">Instagram</a>
-      <a href="https://cults3d.com/en/users/PaulsBoutique3D/3d-models" class="btn" target="_blank" rel="noopener">Cults3D</a>
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    </main>
+      <main id="content" class="main-content" role="main">
+        {{ content }}
+      </main>
+    </div>
   </body>
 </html>
