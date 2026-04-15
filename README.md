@@ -5,6 +5,8 @@
 > I have left the build guides up for existing builders.
 >
 > To comply with local laws, I no longer have the source files or STL files available.
+>
+> I am still building electronics to support existing props — see the stock and availability section below.
 
 ---
 
@@ -17,11 +19,12 @@ Many many wonderful conversations have been had around the Aliens universe.
 
 ## Current Stock & Availability
 
-| Item | Status |
-|------|--------|
-| M41A Electronics Kit | In Stock |
-| F44AA Electronics Kit | Coming Soon |
-| M314 Electronics Kit | Coming Soon |
+| Item | Status | Price |
+|------|--------|-------|
+| M41A Electronics Kit (V2 & V3) — Standard | In Stock | $110.00 AUD |
+| M41A Electronics Kit (V2 & V3) — Bluetooth | In Stock | $130.00 AUD |
+| F44AA Electronics Kit | Coming Soon | TBA |
+| M314 Electronics Kit | Coming Soon | TBA |
 
 To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) with the item you're interested in.
 
@@ -30,9 +33,11 @@ To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) wi
 
 - [M41A Electronics-KB](https://github.com/paulsboutique3d/M41A-Electronics-KB)
 
-- F44AA Electronics-KB
+- [F44AA Electronics-KB](https://github.com/paulsboutique3d/F44AA-Electronics-KB)
+    Code is done, looking at hardware compatibility - this will be released opensource
 
 - M314 Electronics 
+    Code is completed - working on hardware integration
     
 
 
