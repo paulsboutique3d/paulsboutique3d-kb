@@ -1,0 +1,175 @@
+---
+---
+
+/* Dark modern theme override */
+
+:root {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #1c2128;
+  --text-primary: #e6edf3;
+  --text-secondary: #8b949e;
+  --accent: #2dd4a8;
+  --accent-hover: #5eecc5;
+  --border: #30363d;
+  --link: #2dd4a8;
+  --link-hover: #5eecc5;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* Header */
+.page-header {
+  background-image: none;
+  background-color: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  padding: 2rem 1rem;
+}
+
+.project-name {
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.project-tagline {
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+
+/* Header buttons */
+.btn {
+  background: transparent;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  background-color: var(--accent);
+  color: var(--bg-primary);
+  border-color: var(--accent-hover);
+}
+
+.btn + .btn {
+  margin-left: 0.5rem;
+}
+
+/* Main content */
+.main-content {
+  background-color: var(--bg-primary);
+  max-width: 900px;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: var(--text-primary);
+}
+
+.main-content h2 {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.4em;
+}
+
+/* Links */
+.main-content a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.main-content a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* Blockquotes (used for disclaimer) */
+.main-content blockquote {
+  background-color: var(--bg-secondary);
+  border-left: 4px solid var(--accent);
+  color: var(--text-secondary);
+  padding: 1rem 1.5rem;
+  border-radius: 0 6px 6px 0;
+  margin: 1.5rem 0;
+}
+
+.main-content blockquote strong {
+  color: var(--accent);
+}
+
+/* Tables */
+.main-content table {
+  background-color: var(--bg-secondary);
+  border-radius: 6px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.main-content table th {
+  background-color: var(--bg-tertiary);
+  color: var(--accent);
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+}
+
+.main-content table td {
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+}
+
+.main-content table tr:hover td {
+  background-color: var(--bg-tertiary);
+}
+
+/* Horizontal rules */
+.main-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Lists */
+.main-content ul,
+.main-content ol {
+  color: var(--text-primary);
+}
+
+/* Code */
+.main-content code {
+  background-color: var(--bg-secondary);
+  color: var(--accent);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.main-content pre {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+/* Responsive */
+@media screen and (max-width: 42em) {
+  .btn {
+    display: block;
+    width: 100%;
+    margin: 0.25rem 0;
+  }
+
+  .btn + .btn {
+    margin-left: 0;
+  }
+}
