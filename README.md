@@ -1,4 +1,4 @@
-# PaulsBoutique3D Knowledge Base
+
 
 > **Notice:** Due to law changes in my part of the world around CAD ownership, I am no longer doing replica Sci-Fi props based on weapons.
 >
@@ -14,6 +14,11 @@ Many many wonderful conversations have been had around the Aliens universe.
 — PB
 
 ---
+## Prop Electronics
+
+- [M41A Pulse Rifle](https://github.com/paulsboutique3d/M41A-Electronics-KB)
+    
+
 
 ## Guides for Current Props
 
