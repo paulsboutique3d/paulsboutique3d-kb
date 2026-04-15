@@ -16,7 +16,11 @@ Many many wonderful conversations have been had around the Aliens universe.
 ---
 ## Prop Electronics
 
-- [M41A Pulse Rifle](https://github.com/paulsboutique3d/M41A-Electronics-KB)
+- [M41A Electronics-KB](https://github.com/paulsboutique3d/M41A-Electronics-KB)
+
+- F44AA Electronics-KB
+
+- M314 Electronics 
     
 
 
