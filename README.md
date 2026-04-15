@@ -6,12 +6,11 @@
 >
 > To comply with local laws, I no longer have the source files or STL files available.
 >
-> I am still building electronics to support existing props — see the stock and availability section below.
 
 ---
 
-Thankyou to everyone who supported me over the last few years.
-Many many wonderful conversations have been had around the Aliens universe.
+I am still building electronics to support existing props — see the stock and availability section below.
+
 
 — PB
 
@@ -34,10 +33,10 @@ To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) wi
 - [M41A Electronics-KB](https://github.com/paulsboutique3d/M41A-Electronics-KB)
 
 - [F44AA Electronics-KB](https://github.com/paulsboutique3d/F44AA-Electronics-KB)
-    Code is done, looking at hardware compatibility - this will be released opensource
+   <br> Code is done, looking at hardware compatibility - this will be released opensource
 
 - M314 Electronics 
-    Code is completed - working on hardware integration
+   <br> Code is completed - working on hardware integration
     
 
 
