@@ -1,19 +1,19 @@
 ---
 ---
 
-/* Dark modern theme override */
+/* Light modern theme override */
 
 :root {
-  --bg-primary: #0d1117;
-  --bg-secondary: #161b22;
-  --bg-tertiary: #1c2128;
-  --text-primary: #e6edf3;
-  --text-secondary: #8b949e;
-  --accent: #2dd4a8;
-  --accent-hover: #5eecc5;
-  --border: #30363d;
-  --link: #2dd4a8;
-  --link-hover: #5eecc5;
+  --bg-primary: #f0f2f5;
+  --bg-card: #ffffff;
+  --bg-header: #1a2332;
+  --text-primary: #24292f;
+  --text-secondary: #57606a;
+  --accent: #0d9f7f;
+  --accent-hover: #0ab392;
+  --border: #d8dee4;
+  --link: #0d9f7f;
+  --link-hover: #0ab392;
 }
 
 body {
@@ -25,27 +25,28 @@ body {
 /* Header */
 .page-header {
   background-image: none;
-  background-color: var(--bg-secondary);
-  border-bottom: 1px solid var(--border);
-  padding: 2rem 1rem;
+  background-color: var(--bg-header);
+  border-bottom: none;
+  padding: 2.5rem 1rem;
+  text-align: center;
 }
 
 .project-name {
-  color: var(--accent);
+  color: #ffffff;
   font-weight: 700;
   letter-spacing: -0.5px;
 }
 
 .project-tagline {
-  color: var(--text-secondary);
+  color: rgba(255, 255, 255, 0.7);
   font-weight: 400;
 }
 
 /* Header buttons */
 .btn {
   background: transparent;
-  color: var(--accent);
-  border: 1px solid var(--accent);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 6px;
   padding: 0.5rem 1rem;
   font-weight: 600;
@@ -54,8 +55,8 @@ body {
 
 .btn:hover {
   background-color: var(--accent);
-  color: var(--bg-primary);
-  border-color: var(--accent-hover);
+  color: #ffffff;
+  border-color: var(--accent);
 }
 
 .btn + .btn {
@@ -65,7 +66,9 @@ body {
 /* Main content */
 .main-content {
   background-color: var(--bg-primary);
-  max-width: 900px;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
 }
 
 .main-content h1,
@@ -76,8 +79,9 @@ body {
 }
 
 .main-content h2 {
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--accent);
   padding-bottom: 0.4em;
+  margin-top: 2rem;
 }
 
 /* Links */
@@ -94,12 +98,13 @@ body {
 
 /* Blockquotes (used for disclaimer) */
 .main-content blockquote {
-  background-color: var(--bg-secondary);
+  background-color: var(--bg-card);
   border-left: 4px solid var(--accent);
   color: var(--text-secondary);
   padding: 1rem 1.5rem;
-  border-radius: 0 6px 6px 0;
+  border-radius: 0 8px 8px 0;
   margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 .main-content blockquote strong {
@@ -108,28 +113,35 @@ body {
 
 /* Tables */
 .main-content table {
-  background-color: var(--bg-secondary);
-  border-radius: 6px;
+  background-color: var(--bg-card);
+  border-radius: 8px;
   overflow: hidden;
   width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-collapse: separate;
+  border-spacing: 0;
 }
 
 .main-content table th {
-  background-color: var(--bg-tertiary);
-  color: var(--accent);
+  background-color: var(--bg-header);
+  color: #ffffff;
   font-weight: 600;
   padding: 0.75rem 1rem;
-  border: 1px solid var(--border);
+  border: none;
 }
 
 .main-content table td {
   color: var(--text-primary);
   padding: 0.75rem 1rem;
-  border: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.main-content table tr:last-child td {
+  border-bottom: none;
 }
 
 .main-content table tr:hover td {
-  background-color: var(--bg-tertiary);
+  background-color: #f6f8fa;
 }
 
 /* Horizontal rules */
@@ -145,9 +157,13 @@ body {
   color: var(--text-primary);
 }
 
+.main-content li {
+  padding: 0.2em 0;
+}
+
 /* Code */
 .main-content code {
-  background-color: var(--bg-secondary);
+  background-color: #f6f8fa;
   color: var(--accent);
   padding: 0.2em 0.4em;
   border-radius: 4px;
@@ -155,9 +171,9 @@ body {
 }
 
 .main-content pre {
-  background-color: var(--bg-secondary);
+  background-color: #f6f8fa;
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 1rem;
 }
 
