@@ -25,8 +25,9 @@ I am still building electronics to support existing props — see the stock and 
 | F44AA Electronics Kit | Coming Soon | TBA |
 | M314 Electronics Kit | Coming Soon | TBA |
 
-To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) with the item you're interested in.
 ---
+To order, email [admin@paulsboutique3d.com](mailto:admin@paulsboutique3d.com) with the item you're interested in.
+<br>
 I use Auspost shipping and invoice through PayPal.
 
 ## Prop Electronics
