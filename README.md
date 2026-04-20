@@ -20,8 +20,8 @@ I am still building electronics to support existing props — see the stock and 
 
 | Item | Status | Price |
 |------|--------|-------|
-| M41A Electronics Kit (V2 & V3) — Standard | BackOrder eta 1st May | $110.00 AUD |
-| M41A Electronics Kit (V2 & V3) — Bluetooth | Backorder eta 1st May | $130.00 AUD |
+| M41A Electronics Kit (V2 & V3) — Standard | Backorder eta: 1st May | $110.00 AUD |
+| M41A Electronics Kit (V2 & V3) — Bluetooth | Backorder eta: 1st May | $130.00 AUD |
 | F44AA Electronics Kit | Coming Soon | TBA |
 | M314 Electronics Kit | Coming Soon | TBA |
 
