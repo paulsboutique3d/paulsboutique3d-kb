@@ -5,8 +5,8 @@ Welcome to the M314 Motion Tracker build documentation. This guide contains comp
 ## Table of Contents
 
 ## BOM
-- 1 x 6.35mm audio jack
-- 1 x 6.35mm female jack
+- 1 x 6.5mm audio jack
+- 1 x 6.5mm female jack
 - 1 x 3.5mm jack
 - 1 x 3.14 mm brass rod
 - screws tba 
@@ -15,8 +15,8 @@ Welcome to the M314 Motion Tracker build documentation. This guide contains comp
 
 | Part | Image |
 |------|-------|
-| 6.35mm Audio Jack | <!-- ![6.35mm audio jack](images/placeholder.png) --> |
-| 6.35mm Female Jack | <!-- ![6.35mm female jack](images/placeholder.png) --> |
+| 6.5mm Audio Jack | <img width="640" height="640" alt="Switchcraft - S230" src="https://github.com/user-attachments/assets/5c4c0836-f15d-4d84-b1b0-6b6d90690407" /> |
+| 6.5mm Female Jack | <!-- ![6.35mm female jack](images/placeholder.png) --> |
 | 3.5mm Jack | <!-- ![3.5mm jack](images/placeholder.png) --> |
 
 
