@@ -7,7 +7,8 @@ Welcome to the M314 Motion Tracker build documentation. This guide contains comp
 ## BOM
 - 1 x 6.5mm audio jack
   <br> you can find them on sites like https://www.digikey.com.au/en/products/detail/switchcraft-inc/S230/1289981 - search ebay and amazon also as they are cheaper
-- 1 x 6.5mm female jack
+- 1 x 6.35mm female jack
+  <br> https://au.rs-online.com/web/p/jack-plugs-sockets/2035559 - again local electronics store or ebay aliexpress etc
 - 1 x 3.5mm jack
 - 1 x 3.14 mm brass rod
 - screws tba 
